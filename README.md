@@ -1,6 +1,6 @@
 # Watch-UI-Figma
 
-Lnk:https://www.figma.com/file/k2boSSVgr4oE251a7GtaGQ/Rahul-Watch?type=design&node-id=0%3A1&mode=design&t=eKPdwF1s1rG2s1BW-1
+Link:  https://www.figma.com/file/k2boSSVgr4oE251a7GtaGQ/Rahul-Watch?type=design&node-id=0%3A1&mode=design&t=eKPdwF1s1rG2s1BW-1
 
 <br><br>
 
